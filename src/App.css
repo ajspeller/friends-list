@@ -9,7 +9,7 @@
   width: 17em;
   padding: 1em;
   margin: 2rem auto;
-  transition: all 0.3 linear;
+  transition: all 0.3s linear;
   border-radius: 0.3rem;
   text-align: center;
 }
